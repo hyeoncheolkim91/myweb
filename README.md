@@ -1,3 +1,4 @@
 # myweb
 
-[My Web with nodejs hosted on AWS](hyeoncheolkim.com)
+My Web with nodejs hosted on AWS
+www.hyeoncheolkim.com
